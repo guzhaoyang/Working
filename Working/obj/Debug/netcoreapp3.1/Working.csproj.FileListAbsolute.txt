@@ -359,3 +359,7 @@ F:\参与的项目\Working\Working\obj\Debug\netcoreapp3.1\Working.RazorTargetAs
 F:\参与的项目\Working\Working\obj\Debug\netcoreapp3.1\Working.Views.pdb
 F:\参与的项目\Working\Working\obj\Debug\netcoreapp3.1\Working.csproj.CopyComplete
 F:\参与的项目\Working\Working\obj\Debug\netcoreapp3.1\Working.genruntimeconfig.cache
+F:\参与的项目\Working\Working\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\参与的项目\Working\Working\bin\Debug\netcoreapp3.1\appsettings.json
+F:\参与的项目\Working\Working\bin\Debug\netcoreapp3.1\nlog.config
+F:\参与的项目\Working\Working\bin\Debug\netcoreapp3.1\bower.json
