@@ -1,0 +1,93 @@
+2021-05-07 00:11:08.7642|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-07 00:11:20.1610|0|ERROR|Working.Program|Stopped program because of exception System.ArgumentNullException: Value cannot be null. (Parameter 'configure')
+   at Microsoft.Extensions.DependencyInjection.AuthorizationServiceCollectionExtensions.AddAuthorizationCore(IServiceCollection services, Action`1 configure)
+   at Microsoft.Extensions.DependencyInjection.PolicyServiceCollectionExtensions.AddAuthorization(IServiceCollection services, Action`1 configure)
+   at Microsoft.Extensions.DependencyInjection.PolicyServiceCollectionExtensions.AddAuthorization(IServiceCollection services)
+   at Microsoft.Extensions.DependencyInjection.MvcCoreMvcCoreBuilderExtensions.AddAuthorizationServices(IServiceCollection services)
+   at Microsoft.Extensions.DependencyInjection.MvcCoreMvcCoreBuilderExtensions.AddAuthorization(IMvcCoreBuilder builder)
+   at Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllersCore(IServiceCollection services)
+   at Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllersWithViewsCore(IServiceCollection services)
+   at Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllersWithViews(IServiceCollection services)
+   at Working.Startup.ConfigureServices(IServiceCollection services) in F:\参与的项目\Working\Startup.cs:line 60
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.InvokeCore(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass9_0.<Invoke>g__Startup|0(IServiceCollection serviceCollection)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.Invoke(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass8_0.<Build>b__0(IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.UseStartup(Type startupType, HostBuilderContext context, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass12_0.<UseStartup>b__0(HostBuilderContext context, IServiceCollection services)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Working.Program.Main(String[] args) in F:\参与的项目\Working\Program.cs:line 21|url: |action: |
+2021-05-07 00:14:02.9639|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-07 00:14:07.7108|0|ERROR|Working.Program|Stopped program because of exception System.ArgumentNullException: Value cannot be null. (Parameter 'configure')
+   at Microsoft.Extensions.DependencyInjection.AuthorizationServiceCollectionExtensions.AddAuthorizationCore(IServiceCollection services, Action`1 configure)
+   at Microsoft.Extensions.DependencyInjection.PolicyServiceCollectionExtensions.AddAuthorization(IServiceCollection services, Action`1 configure)
+   at Microsoft.Extensions.DependencyInjection.PolicyServiceCollectionExtensions.AddAuthorization(IServiceCollection services)
+   at Microsoft.Extensions.DependencyInjection.MvcCoreMvcCoreBuilderExtensions.AddAuthorizationServices(IServiceCollection services)
+   at Microsoft.Extensions.DependencyInjection.MvcCoreMvcCoreBuilderExtensions.AddAuthorization(IMvcCoreBuilder builder)
+   at Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllersCore(IServiceCollection services)
+   at Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllersWithViewsCore(IServiceCollection services)
+   at Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllersWithViews(IServiceCollection services)
+   at Working.Startup.ConfigureServices(IServiceCollection services) in F:\参与的项目\Working\Startup.cs:line 60
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.InvokeCore(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass9_0.<Invoke>g__Startup|0(IServiceCollection serviceCollection)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.Invoke(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass8_0.<Build>b__0(IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.UseStartup(Type startupType, HostBuilderContext context, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass12_0.<UseStartup>b__0(HostBuilderContext context, IServiceCollection services)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Working.Program.Main(String[] args) in F:\参与的项目\Working\Program.cs:line 21|url: |action: |
+2021-05-07 00:15:23.6435|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-07 00:15:28.2491|0|ERROR|Working.Program|Stopped program because of exception System.ArgumentNullException: Value cannot be null. (Parameter 'configure')
+   at Microsoft.Extensions.DependencyInjection.AuthorizationServiceCollectionExtensions.AddAuthorizationCore(IServiceCollection services, Action`1 configure)
+   at Microsoft.Extensions.DependencyInjection.PolicyServiceCollectionExtensions.AddAuthorization(IServiceCollection services, Action`1 configure)
+   at Microsoft.Extensions.DependencyInjection.PolicyServiceCollectionExtensions.AddAuthorization(IServiceCollection services)
+   at Microsoft.Extensions.DependencyInjection.MvcCoreMvcCoreBuilderExtensions.AddAuthorizationServices(IServiceCollection services)
+   at Microsoft.Extensions.DependencyInjection.MvcCoreMvcCoreBuilderExtensions.AddAuthorization(IMvcCoreBuilder builder)
+   at Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllersCore(IServiceCollection services)
+   at Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllersWithViewsCore(IServiceCollection services)
+   at Microsoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllersWithViews(IServiceCollection services)
+   at Working.Startup.ConfigureServices(IServiceCollection services) in F:\参与的项目\Working\Startup.cs:line 60
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.InvokeCore(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass9_0.<Invoke>g__Startup|0(IServiceCollection serviceCollection)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.Invoke(Object instance, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.ConfigureServicesBuilder.<>c__DisplayClass8_0.<Build>b__0(IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.UseStartup(Type startupType, HostBuilderContext context, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass12_0.<UseStartup>b__0(HostBuilderContext context, IServiceCollection services)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Working.Program.Main(String[] args) in F:\参与的项目\Working\Program.cs:line 21|url: |action: |
+2021-05-07 00:16:59.0286|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-07 00:17:07.8377|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-07 00:17:07.9838|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-07 00:17:08.0223|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-07 00:17:09.0622|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-07 00:19:02.8366|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-07 00:19:11.4098|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-07 00:19:11.4620|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-07 00:19:11.5670|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-07 00:19:12.2708|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-07 00:19:34.9397|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-07 00:24:37.1066|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-07 00:31:49.1109|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-07 00:31:59.0506|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-07 00:31:59.1123|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-07 00:31:59.2336|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-07 00:31:59.8286|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-07 00:38:12.6444|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-07 00:38:23.3755|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-07 00:38:23.4220|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-07 00:38:23.4737|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-07 00:38:35.8383|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-07 00:46:32.6582|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-07 00:46:39.5669|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-07 00:46:39.6356|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-07 00:46:39.7289|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-07 00:46:40.6309|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|

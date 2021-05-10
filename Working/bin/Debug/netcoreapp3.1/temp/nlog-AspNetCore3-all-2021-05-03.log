@@ -1,0 +1,588 @@
+2021-05-03 00:10:39.3353|0|DEBUG|Working.Program|init main 
+2021-05-03 00:10:44.9405|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 00:10:45.0690|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 00:10:45.1139|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 00:12:06.8428|0|DEBUG|Working.Program|init main 
+2021-05-03 00:12:12.7170|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 00:12:12.7581|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 00:12:12.8113|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 00:23:58.1517|0|DEBUG|Working.Program|init main 
+2021-05-03 00:24:04.5793|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 00:24:04.6161|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 00:24:04.6503|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 00:24:15.8659|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 00:24:52.7018|0|DEBUG|Working.Program|init main 
+2021-05-03 00:24:59.4578|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 00:24:59.5035|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 00:24:59.5388|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 00:29:24.7784|0|DEBUG|Working.Program|init main 
+2021-05-03 00:29:30.6575|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 00:29:30.7084|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 00:29:30.7511|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 00:31:30.6711|0|DEBUG|Working.Program|init main 
+2021-05-03 00:31:36.2182|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 00:31:36.2528|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 00:31:36.2918|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 00:36:19.2581|0|DEBUG|Working.Program|init main 
+2021-05-03 00:36:28.6834|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 00:36:28.8405|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 00:36:28.8663|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 00:42:27.7567|0|DEBUG|Working.Program|init main 
+2021-05-03 00:42:36.3419|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 00:42:36.3812|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 00:42:36.4255|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 00:44:21.7824|0|DEBUG|Working.Program|init main 
+2021-05-03 00:44:26.3674|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 00:44:26.4233|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 00:44:26.4629|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 00:53:23.0866|0|DEBUG|Working.Program|init main 
+2021-05-03 00:53:30.5780|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 00:53:30.6247|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 00:53:30.6717|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 00:57:53.8228|0|DEBUG|Working.Program|init main 
+2021-05-03 00:57:58.7243|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 00:57:58.7683|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 00:57:58.8088|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:02:37.0671|0|DEBUG|Working.Program|init main 
+2021-05-03 01:02:42.4439|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:02:42.4865|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:02:42.5553|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:05:50.1541|0|DEBUG|Working.Program|init main 
+2021-05-03 01:06:09.9193|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:06:10.0174|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:06:10.1423|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:12:14.7061|0|DEBUG|Working.Program|init main 
+2021-05-03 01:12:23.3377|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:12:23.3973|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:12:23.4394|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:12:33.1720|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: SignInAsync when principal.Identity.IsAuthenticated is false is not allowed when AuthenticationOptions.RequireAuthenticatedSignIn is true.
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties)
+   at Working.Controllers.HomeController.Login(String userName, String password) in F:\参与的项目\Working\Controllers\HomeController.cs:line 87
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-05-03 01:17:12.8267|0|DEBUG|Working.Program|init main 
+2021-05-03 01:17:18.8166|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:17:18.8755|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:17:18.9062|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:26:44.5907|0|DEBUG|Working.Program|init main 
+2021-05-03 01:26:49.3484|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:26:49.4593|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:26:49.4832|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:29:09.2828|0|DEBUG|Working.Program|init main 
+2021-05-03 01:29:16.3634|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:29:16.4139|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:29:16.4687|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:30:23.5763|0|DEBUG|Working.Program|init main 
+2021-05-03 01:30:28.8947|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:30:28.9321|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:30:28.9484|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:34:22.8278|0|DEBUG|Working.Program|init main 
+2021-05-03 01:34:27.7396|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:34:27.8977|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:34:27.9776|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:36:10.4008|0|DEBUG|Working.Program|init main 
+2021-05-03 01:36:15.9619|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:36:16.0053|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:36:16.0603|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:40:41.3452|0|DEBUG|Working.Program|init main 
+2021-05-03 01:40:47.4435|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:40:47.5066|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:40:47.5505|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:47:45.0216|0|DEBUG|Working.Program|init main 
+2021-05-03 01:47:51.4581|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:47:51.5754|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:47:51.6243|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:51:59.8185|0|DEBUG|Working.Program|init main 
+2021-05-03 01:52:05.5945|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:52:05.6648|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:52:05.7031|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:55:46.8234|0|DEBUG|Working.Program|init main 
+2021-05-03 01:55:52.8123|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:55:52.8528|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:55:52.9422|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 01:59:10.1587|0|DEBUG|Working.Program|init main 
+2021-05-03 01:59:16.1061|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 01:59:16.1417|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 01:59:16.1800|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 02:03:00.9611|0|DEBUG|Working.Program|init main 
+2021-05-03 02:03:06.5456|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 02:03:06.5817|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 02:03:06.6200|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 02:09:35.4969|0|DEBUG|Working.Program|init main 
+2021-05-03 02:09:41.4270|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 02:09:41.4641|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 02:09:41.5117|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 02:12:35.8654|0|DEBUG|Working.Program|init main 
+2021-05-03 02:12:41.7921|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 02:12:41.8640|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 02:12:41.9075|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 10:53:04.6090|0|DEBUG|Working.Program|init main 
+2021-05-03 10:53:15.3130|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 10:53:15.3803|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 10:53:15.4418|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 10:56:02.7933|0|DEBUG|Working.Program|init main 
+2021-05-03 10:56:09.0541|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 10:56:09.1193|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 10:56:09.1994|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 11:03:23.2651|0|DEBUG|Working.Program|init main 
+2021-05-03 11:03:28.1813|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 11:03:28.2679|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 11:03:28.3159|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 11:03:41.6608|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: SignInAsync when principal.Identity.IsAuthenticated is false is not allowed when AuthenticationOptions.RequireAuthenticatedSignIn is true.
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties)
+   at Working.Controllers.HomeController.Login(String userName, String password) in F:\参与的项目\Working\Controllers\HomeController.cs:line 89
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-05-03 11:07:50.4064|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: SignInAsync when principal.Identity.IsAuthenticated is false is not allowed when AuthenticationOptions.RequireAuthenticatedSignIn is true.
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties)
+   at Working.Controllers.HomeController.Login(String userName, String password) in F:\参与的项目\Working\Controllers\HomeController.cs:line 89
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-05-03 11:14:26.5231|0|DEBUG|Working.Program|init main 
+2021-05-03 11:14:31.3853|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 11:14:31.4177|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 11:14:31.4527|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 11:14:47.7731|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 11:43:56.6548|0|DEBUG|Working.Program|init main 
+2021-05-03 11:44:02.5420|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 11:44:02.5890|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 11:44:02.6229|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 11:44:12.6327|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 11:44:55.8731|0|DEBUG|Working.Program|init main 
+2021-05-03 11:45:00.2392|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 11:45:00.2763|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 11:45:00.3138|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 11:45:10.5380|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 11:45:56.8824|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: SignInAsync when principal.Identity.IsAuthenticated is false is not allowed when AuthenticationOptions.RequireAuthenticatedSignIn is true.
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties)
+   at Working.Controllers.HomeController.Login(String userName, String password) in F:\参与的项目\Working\Controllers\HomeController.cs:line 92
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-05-03 11:57:45.9652|0|DEBUG|Working.Program|init main 
+2021-05-03 11:57:52.2345|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 11:57:52.2861|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 11:57:52.3962|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:02:03.4141|0|DEBUG|Working.Program|init main 
+2021-05-03 12:02:08.5639|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 12:02:08.6030|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 12:02:08.6488|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:02:18.5815|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:02:35.9759|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:02:41.8999|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:03:38.6985|0|DEBUG|Working.Program|init main 
+2021-05-03 12:03:43.8474|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 12:03:43.8831|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 12:03:43.9214|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:04:10.0275|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:04:53.1363|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:04:54.4967|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:07:15.5642|0|DEBUG|Working.Program|init main 
+2021-05-03 12:07:20.3460|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 12:07:20.3832|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 12:07:20.4233|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:07:20.9208|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:07:59.7770|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:13:35.3395|0|DEBUG|Working.Program|init main 
+2021-05-03 12:13:41.4858|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 12:13:41.5308|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 12:13:41.5737|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:13:42.1779|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:13:46.6704|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:13:51.2220|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:13:53.5477|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:13:54.5633|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:14:45.6907|0|DEBUG|Working.Program|init main 
+2021-05-03 12:14:49.5930|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 12:14:49.6269|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 12:14:49.6585|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:14:49.9770|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:17:11.7428|0|DEBUG|Working.Program|init main 
+2021-05-03 12:17:16.6054|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 12:17:16.6476|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 12:17:16.7183|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:17:17.3140|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:17:37.7521|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:17:38.8504|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:17:39.5547|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:17:40.3964|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:17:41.4203|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:28:06.6954|0|DEBUG|Working.Program|init main 
+2021-05-03 12:28:12.3711|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 12:28:12.4096|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 12:28:12.4489|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:28:13.0276|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:28:36.3581|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:28:38.0615|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:28:53.3863|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:29:02.0714|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:29:39.7096|0|DEBUG|Working.Program|init main 
+2021-05-03 12:29:45.4150|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 12:29:45.5392|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 12:29:45.5709|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:29:46.3708|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:30:09.8010|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:38:13.2827|0|DEBUG|Working.Program|init main 
+2021-05-03 12:38:22.6255|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 12:38:22.7058|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 12:38:22.7299|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:38:23.6965|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:40:58.4807|0|DEBUG|Working.Program|init main 
+2021-05-03 12:41:03.7608|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 12:41:03.8004|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 12:41:03.8345|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:41:04.2257|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:43:23.8687|0|DEBUG|Working.Program|init main 
+2021-05-03 12:43:29.7751|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 12:43:29.8174|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 12:43:29.8498|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:43:30.4566|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:53:28.4246|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:54:23.8270|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:54:38.9134|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:55:17.1535|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:55:41.9985|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:56:30.6299|0|DEBUG|Working.Program|init main 
+2021-05-03 12:56:36.2481|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 12:56:36.2836|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 12:56:36.3308|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:56:36.6358|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 12:57:47.5365|0|DEBUG|Working.Program|init main 
+2021-05-03 12:57:52.8515|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 12:57:52.8946|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 12:57:52.9493|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 12:59:55.4957|0|DEBUG|Working.Program|init main 
+2021-05-03 13:00:01.3910|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:00:01.4305|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:00:01.4709|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:00:02.0557|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 13:03:04.9981|0|DEBUG|Working.Program|init main 
+2021-05-03 13:03:10.8637|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:03:10.9421|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:03:10.9907|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:03:11.7178|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 13:04:02.7431|0|DEBUG|Working.Program|init main 
+2021-05-03 13:04:07.5170|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:04:07.5605|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:04:07.6186|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:04:07.9290|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 13:07:38.9483|0|DEBUG|Working.Program|init main 
+2021-05-03 13:07:45.8610|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:07:45.9793|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:07:45.9962|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:22:07.0519|0|DEBUG|Working.Program|init main 
+2021-05-03 13:22:15.2116|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:22:15.2581|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:22:15.2995|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:22:15.9726|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 13:24:48.7818|0|DEBUG|Working.Program|init main 
+2021-05-03 13:24:56.3187|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:24:56.3535|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:24:56.3897|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:24:56.9806|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 13:28:30.1332|0|DEBUG|Working.Program|init main 
+2021-05-03 13:28:35.8643|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:28:35.9060|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:28:35.9384|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:36:30.9498|0|DEBUG|Working.Program|init main 
+2021-05-03 13:36:49.4605|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:36:49.5064|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:36:49.6107|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:40:21.2510|0|DEBUG|Working.Program|init main 
+2021-05-03 13:40:25.9800|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:40:26.0910|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:40:26.1269|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:46:07.6833|0|DEBUG|Working.Program|init main 
+2021-05-03 13:46:14.8502|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:46:14.8919|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:46:14.9269|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:48:57.0867|0|DEBUG|Working.Program|init main 
+2021-05-03 13:49:01.5607|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:49:01.6054|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:49:01.6376|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:51:46.0378|0|DEBUG|Working.Program|init main 
+2021-05-03 13:51:52.9156|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:51:52.9601|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:51:53.0086|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:52:30.8457|0|DEBUG|Working.Program|init main 
+2021-05-03 13:52:36.4334|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:52:36.4671|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:52:36.5006|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:53:06.7935|0|DEBUG|Working.Program|init main 
+2021-05-03 13:53:12.4171|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:53:12.4518|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:53:12.5132|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:53:54.6977|0|DEBUG|Working.Program|init main 
+2021-05-03 13:53:59.8638|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:53:59.9125|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:53:59.9525|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:54:39.4062|0|DEBUG|Working.Program|init main 
+2021-05-03 13:54:45.8469|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:54:45.8872|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:54:45.9218|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:55:23.2008|0|DEBUG|Working.Program|init main 
+2021-05-03 13:55:29.1393|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:55:29.7375|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:55:29.7677|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:56:00.6680|0|DEBUG|Working.Program|init main 
+2021-05-03 13:56:06.5541|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:56:06.6180|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:56:06.6510|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 13:59:09.3121|0|DEBUG|Working.Program|init main 
+2021-05-03 13:59:15.1442|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 13:59:15.2065|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 13:59:15.2683|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:01:50.9087|0|DEBUG|Working.Program|init main 
+2021-05-03 14:01:56.6892|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:01:56.7302|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:01:56.7620|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:05:57.0859|0|DEBUG|Working.Program|init main 
+2021-05-03 14:06:03.0872|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:06:03.1506|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:06:03.1873|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:07:48.8225|0|DEBUG|Working.Program|init main 
+2021-05-03 14:07:54.7042|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:07:54.7475|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:07:54.7820|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:09:39.2671|0|DEBUG|Working.Program|init main 
+2021-05-03 14:09:46.4662|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:09:46.5565|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:09:46.5978|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:10:33.6706|0|DEBUG|Working.Program|init main 
+2021-05-03 14:10:43.4568|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:10:43.5298|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:10:43.6120|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:14:46.2951|0|DEBUG|Working.Program|init main 
+2021-05-03 14:14:52.1761|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:14:52.2161|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:14:52.2724|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:16:39.7872|0|DEBUG|Working.Program|init main 
+2021-05-03 14:16:45.1101|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:16:45.1668|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:16:45.1992|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:19:26.0532|0|DEBUG|Working.Program|init main 
+2021-05-03 14:19:32.2677|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:19:32.3077|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:19:32.3471|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:20:33.0536|0|DEBUG|Working.Program|init main 
+2021-05-03 14:20:34.3703|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:20:34.3994|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:20:34.4359|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:20:53.6231|0|DEBUG|Working.Program|init main 
+2021-05-03 14:20:59.5132|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:20:59.5489|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:20:59.5835|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:21:55.9004|0|DEBUG|Working.Program|init main 
+2021-05-03 14:22:01.8743|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:22:01.9352|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:22:01.9723|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:23:25.5769|0|DEBUG|Working.Program|init main 
+2021-05-03 14:23:31.2685|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:23:31.3381|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:23:31.4074|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:26:40.1580|0|DEBUG|Working.Program|init main 
+2021-05-03 14:26:51.5168|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:26:51.6369|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:26:51.8086|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:27:31.0489|0|DEBUG|Working.Program|init main 
+2021-05-03 14:27:37.5088|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:27:37.5517|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:27:37.6124|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:35:27.7801|0|DEBUG|Working.Program|init main 
+2021-05-03 14:35:35.3379|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:35:35.3908|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:35:35.4156|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:35:42.6912|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 14:37:26.3558|0|DEBUG|Working.Program|init main 
+2021-05-03 14:37:32.6130|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:37:32.6618|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:37:32.7506|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:37:33.6971|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 14:39:05.0761|0|DEBUG|Working.Program|init main 
+2021-05-03 14:39:11.7824|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 14:39:11.8224|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 14:39:11.9335|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 14:39:27.0619|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 17:45:45.8371|0|DEBUG|Working.Program|init main 
+2021-05-03 17:45:54.1263|0|ERROR|Working.Program|Stopped program because of exception System.ArgumentException: Cannot instantiate implementation type 'IRepository.IUserRepository' for service type 'IRepository.IUserRepository'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory..ctor(IEnumerable`1 descriptors)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngineCallback callback)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CompiledServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngineCallback callback)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.Internal.ServiceFactoryAdapter`1.CreateServiceProvider(Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Working.Program.Main(String[] args) in F:\参与的项目\Working\Program.cs:line 21
+2021-05-03 17:48:22.2863|0|DEBUG|Working.Program|init main 
+2021-05-03 17:48:28.1121|0|ERROR|Working.Program|Stopped program because of exception System.ArgumentException: Cannot instantiate implementation type 'IRepository.IUserRepository' for service type 'IRepository.IUserRepository'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory..ctor(IEnumerable`1 descriptors)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngineCallback callback)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CompiledServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngineCallback callback)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.Internal.ServiceFactoryAdapter`1.CreateServiceProvider(Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Working.Program.Main(String[] args) in F:\参与的项目\Working\Program.cs:line 21
+2021-05-03 17:51:09.1153|0|DEBUG|Working.Program|init main 
+2021-05-03 17:51:15.8446|0|ERROR|Working.Program|Stopped program because of exception System.ArgumentException: Cannot instantiate implementation type 'IRepository.IUserRepository' for service type 'IRepository.IUserRepository'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory..ctor(IEnumerable`1 descriptors)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngineCallback callback)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CompiledServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngineCallback callback)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.Internal.ServiceFactoryAdapter`1.CreateServiceProvider(Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Working.Program.Main(String[] args) in F:\参与的项目\Working\Program.cs:line 21
+2021-05-03 17:52:50.2223|0|DEBUG|Working.Program|init main 
+2021-05-03 17:52:56.8252|0|ERROR|Working.Program|Stopped program because of exception System.ArgumentException: Cannot instantiate implementation type 'IRepository.IUserRepository' for service type 'IRepository.IUserRepository'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory..ctor(IEnumerable`1 descriptors)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngineCallback callback)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CompiledServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngineCallback callback)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.Internal.ServiceFactoryAdapter`1.CreateServiceProvider(Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Working.Program.Main(String[] args) in F:\参与的项目\Working\Program.cs:line 21
+2021-05-03 17:54:56.3632|0|DEBUG|Working.Program|init main 
+2021-05-03 17:55:03.2350|0|ERROR|Working.Program|Stopped program because of exception System.ArgumentException: Cannot instantiate implementation type 'IRepository.IUserRepository' for service type 'IRepository.IUserRepository'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.Populate()
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory..ctor(IEnumerable`1 descriptors)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngineCallback callback)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CompiledServiceProviderEngine..ctor(IEnumerable`1 serviceDescriptors, IServiceProviderEngineCallback callback)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(IEnumerable`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.DefaultServiceProviderFactory.CreateServiceProvider(IServiceCollection containerBuilder)
+   at Microsoft.Extensions.Hosting.Internal.ServiceFactoryAdapter`1.CreateServiceProvider(Object containerBuilder)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at Working.Program.Main(String[] args) in F:\参与的项目\Working\Program.cs:line 21
+2021-05-03 17:55:53.2773|0|DEBUG|Working.Program|init main 
+2021-05-03 17:56:00.3766|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 17:56:00.4693|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 17:56:00.5093|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 17:56:01.2736|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 17:59:19.9936|0|DEBUG|Working.Program|init main 
+2021-05-03 17:59:27.1185|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 17:59:27.1952|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 17:59:27.2377|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 18:00:14.7428|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:00:45.2961|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:00:46.5131|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:00:47.3447|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:04:24.6581|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:04:44.4959|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:07:17.5038|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:07:19.7357|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:07:20.4098|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:18:34.7819|0|DEBUG|Working.Program|init main 
+2021-05-03 18:18:40.2528|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 18:18:40.2846|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 18:18:40.3208|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 18:18:40.6573|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:19:43.4526|0|DEBUG|Working.Program|init main 
+2021-05-03 18:19:50.1210|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 18:19:50.1915|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 18:19:50.2275|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 18:19:50.8069|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:21:33.0844|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:22:04.7554|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:23:20.6591|0|DEBUG|Working.Program|init main 
+2021-05-03 18:23:27.0122|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 18:23:27.0580|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 18:23:27.0970|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 18:23:27.7984|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:25:04.5433|0|DEBUG|Working.Program|init main 
+2021-05-03 18:25:22.6456|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 18:25:22.7417|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 18:25:22.7632|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 18:25:23.1519|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 18:27:01.1565|0|DEBUG|Working.Program|init main 
+2021-05-03 18:27:07.9920|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 18:27:08.0296|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 18:27:08.0654|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 18:27:08.7860|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 19:17:51.5057|0|DEBUG|Working.Program|init main 
+2021-05-03 19:17:59.0210|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 19:17:59.1543|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 19:17:59.2064|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 19:18:00.7656|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 19:18:20.3193|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 19:20:16.2633|0|DEBUG|Working.Program|init main 
+2021-05-03 19:20:22.6792|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-03 19:20:22.7432|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-03 19:20:22.7750|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-03 19:20:23.5296|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 19:20:56.2384|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 19:21:15.4353|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-03 19:21:22.9108|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 

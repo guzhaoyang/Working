@@ -1,0 +1,118 @@
+2021-05-08 10:30:06.9525|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 10:30:20.8584|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 10:30:21.0079|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 10:30:21.0435|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 10:30:29.1845|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 10:31:38.2433|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 10:31:43.1340|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 10:31:43.3228|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 10:31:43.3505|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 10:36:44.7398|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 10:37:15.0181|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 10:37:20.0331|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 10:37:20.1843|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 10:37:20.2108|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 10:37:26.8021|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 10:48:41.4344|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 10:48:47.0826|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 10:48:47.1225|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 10:48:47.1656|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 10:48:52.6448|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 10:57:37.7675|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 10:57:42.9128|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 10:57:43.0640|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 10:57:43.0955|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 10:57:49.4785|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 11:00:16.9910|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 11:00:22.7063|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 11:00:22.7966|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 11:00:22.8494|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 11:00:28.8883|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 16:36:17.0075|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 16:36:25.1592|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 16:36:25.2580|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 16:36:25.2987|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 16:36:39.7252|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 16:36:43.5433|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'IService.IWorkItemsService' while attempting to activate 'Working.Controllers.MyWorksController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: http://localhost/MyWorks/Index|action: Index|
+2021-05-08 16:39:56.5823|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 16:40:01.3664|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 16:40:01.4246|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 16:40:01.4471|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 16:40:09.0672|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 16:41:42.6348|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 16:41:48.7075|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 16:41:48.8932|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 16:41:48.9230|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 16:41:54.5951|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 16:43:48.8729|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 16:43:54.8884|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 16:43:54.9301|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 16:43:54.9687|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 16:44:37.1750|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 17:38:42.8609|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 17:38:49.9452|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 17:38:50.2202|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 17:38:50.2526|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 17:39:24.9915|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 17:43:56.2141|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 17:44:02.3100|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 17:44:02.3438|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 17:44:02.3892|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 17:44:07.6704|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 17:47:12.7662|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 17:47:19.0668|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 17:47:19.1777|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 17:47:19.2027|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 17:47:32.8444|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 18:05:33.5210|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 18:05:38.2620|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 18:05:38.3113|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 18:05:38.3563|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 18:05:43.8953|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 18:12:05.0966|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 18:12:11.5084|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 18:12:11.6418|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 18:12:11.7170|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 18:12:19.9322|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 20:32:09.8983|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 20:32:16.5088|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 20:32:16.5804|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 20:32:16.7514|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 20:32:24.7168|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 20:34:51.5909|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 20:34:58.2429|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 20:34:58.4511|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 20:34:58.5453|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 20:35:04.2818|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 20:36:24.3003|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 20:36:30.3188|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 20:36:30.4081|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 20:36:30.4767|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 20:36:36.4449|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 21:00:05.7303|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 21:00:11.6013|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 21:00:12.4415|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 21:00:12.4964|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 21:00:26.5388|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-08 21:02:45.6229|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-08 21:02:49.8106|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-08 21:02:49.8529|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-08 21:02:49.9159|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-08 21:02:55.0001|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|

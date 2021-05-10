@@ -1,0 +1,43 @@
+2021-05-06 22:32:24.6942|0|DEBUG|Working.Program|init main 
+2021-05-06 22:32:45.4257|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-06 22:32:45.5526|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-06 22:32:45.6052|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-06 22:33:16.9105|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-06 22:33:44.0891|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-06 22:43:10.5535|0|DEBUG|Working.Program|init main 
+2021-05-06 22:43:21.4486|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-06 22:43:21.5557|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-06 22:43:21.6257|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-06 22:43:23.1305|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-06 22:52:23.4525|0|DEBUG|Working.Program|init main 
+2021-05-06 22:52:35.6512|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-06 22:52:35.7599|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-06 22:52:35.8022|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-06 22:55:30.4343|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-06 22:58:52.9248|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-06 23:00:56.8764|0|DEBUG|Working.Program|init main 
+2021-05-06 23:01:04.5739|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-06 23:01:04.6123|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-06 23:01:04.6637|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-06 23:01:05.4047|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-06 23:07:25.0515|0|DEBUG|Working.Program|init main 
+2021-05-06 23:07:35.3704|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-06 23:07:35.4177|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-06 23:07:35.5042|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-06 23:07:47.3060|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-06 23:08:28.4577|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-06 23:20:01.0734|0|DEBUG|Working.Program|init main 
+2021-05-06 23:20:09.0196|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-06 23:20:09.0745|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-06 23:20:09.1546|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-06 23:20:09.7482|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-06 23:27:44.0183|0|DEBUG|Working.Program|init main 
+2021-05-06 23:27:52.2941|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-06 23:27:52.3452|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-06 23:27:52.3973|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-06 23:27:52.8316|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
+2021-05-06 23:36:14.5512|0|DEBUG|Working.Program|init main 
+2021-05-06 23:36:21.0876|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-06 23:36:21.2171|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-06 23:36:21.2826|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working 
+2021-05-06 23:36:21.9335|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 
