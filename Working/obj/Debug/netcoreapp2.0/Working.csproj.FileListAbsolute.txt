@@ -1,0 +1,4 @@
+F:\参与的项目\Working\obj\Debug\netcoreapp2.0\Working.csprojAssemblyReference.cache
+F:\参与的项目\Working\obj\Debug\netcoreapp2.0\Working.AssemblyInfoInputs.cache
+F:\参与的项目\Working\obj\Debug\netcoreapp2.0\Working.AssemblyInfo.cs
+F:\参与的项目\Working\obj\Debug\netcoreapp2.0\Working.csproj.CoreCompileInputs.cache

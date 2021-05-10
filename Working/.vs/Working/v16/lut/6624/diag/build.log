@@ -1,0 +1,31 @@
+[17:10:30.896 Verbose] - BuildManager - 一些路径是绝对路径。这可能会阻止 Live Unit Testing 生成到正确的位置。
+[17:10:30.897 Verbose] - BuildManager - 属性 BaseOutputPath 已通过以下方式评估为 bin\”:
+BaseOutputPath: '$([MSBuild]::EnsureTrailingSlash($([MSBuild]::ValueOrDefault('$(BaseOutputPath)', 'bin'))))' @ D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:154
+  BaseOutputPath: 'bin\' @ C:\Program Files\dotnet\sdk\5.0.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:31
+[17:10:30.897 Verbose] - BuildManager - 属性 BaseIntermediateOutputPath 已通过以下方式评估为 F:\参与的项目\Working\obj\”:
+BaseIntermediateOutputPath: '$(MSBuildProjectDirectory)\$(BaseIntermediateOutputPath)' @ C:\Program Files\dotnet\sdk\5.0.201\Sdks\Microsoft.NET.Sdk.Publish\targets\Microsoft.NET.Sdk.Publish.targets:80
+  MSBuildProjectDirectory: 'F:\参与的项目\Working'
+  BaseIntermediateOutputPath: '$([MSBuild]::EnsureTrailingSlash($([MSBuild]::ValueOrDefault('$(BaseIntermediateOutputPath)', 'obj'))))' @ D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:159
+    BaseIntermediateOutputPath: '$([MSBuild]::EnsureTrailingSlash($([MSBuild]::ValueOrDefault('$(BaseIntermediateOutputPath)', 'obj'))))' @ D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Microsoft.Common.props:46
+      BaseIntermediateOutputPath: '[未定义]'
+[17:10:30.898 Verbose] - BuildManager - 属性 IntermediateOutputPath 已通过以下方式评估为 obj\Debug\netcoreapp3.1\”:
+IntermediateOutputPath: '$([MSBuild]::EnsureTrailingSlash('$(IntermediateOutputPath)'))' @ D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:162
+  IntermediateOutputPath: '$(IntermediateOutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\5.0.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:241
+    IntermediateOutputPath: '$(BaseIntermediateOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\5.0.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:39
+      BaseIntermediateOutputPath: '$([MSBuild]::EnsureTrailingSlash($([MSBuild]::ValueOrDefault('$(BaseIntermediateOutputPath)', 'obj'))))' @ D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Microsoft.Common.props:46
+        BaseIntermediateOutputPath: '[未定义]'
+      Configuration: 'Debug'
+[17:10:30.899 Verbose] - BuildManager - 属性 OutputPath 已通过以下方式评估为 bin\Debug\netcoreapp3.1\”:
+OutputPath: '$([MSBuild]::EnsureTrailingSlash('$(OutputPath)'))' @ D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:157
+  OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\5.0.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:242
+    OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\5.0.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+      BaseOutputPath: 'bin\' @ C:\Program Files\dotnet\sdk\5.0.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:31
+      Configuration: 'Debug'
+[17:10:30.899 Verbose] - BuildManager - 属性 OutDir 已通过以下方式评估为 bin\Debug\netcoreapp3.1\”:
+OutDir: '$([MSBuild]::EnsureTrailingSlash($([MSBuild]::ValueOrDefault('$(OutDir)', '$(OutputPath)'))))' @ D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:230
+  OutDir: '[未定义]'
+  OutputPath: '$([MSBuild]::EnsureTrailingSlash('$(OutputPath)'))' @ D:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets:157
+    OutputPath: '$(OutputPath)$(TargetFramework.ToLowerInvariant())\' @ C:\Program Files\dotnet\sdk\5.0.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.TargetFrameworkInference.targets:242
+      OutputPath: '$(BaseOutputPath)$(Configuration)\' @ C:\Program Files\dotnet\sdk\5.0.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:33
+        BaseOutputPath: 'bin\' @ C:\Program Files\dotnet\sdk\5.0.201\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.DefaultOutputPaths.targets:31
+        Configuration: 'Debug'

@@ -1,0 +1,7 @@
+F:\参与的项目\Working\.vs\Working\v16\lut\0\b\IService\Debug\netcoreapp3.1\IService.deps.json
+F:\参与的项目\Working\.vs\Working\v16\lut\0\b\IService\Debug\netcoreapp3.1\IService.dll
+F:\参与的项目\Working\.vs\Working\v16\lut\0\i\IService\Debug\netcoreapp3.1\IService.csprojAssemblyReference.cache
+F:\参与的项目\Working\.vs\Working\v16\lut\0\i\IService\Debug\netcoreapp3.1\IService.AssemblyInfoInputs.cache
+F:\参与的项目\Working\.vs\Working\v16\lut\0\i\IService\Debug\netcoreapp3.1\IService.AssemblyInfo.cs
+F:\参与的项目\Working\.vs\Working\v16\lut\0\i\IService\Debug\netcoreapp3.1\IService.csproj.CopyComplete
+F:\参与的项目\Working\.vs\Working\v16\lut\0\i\IService\Debug\netcoreapp3.1\IService.dll

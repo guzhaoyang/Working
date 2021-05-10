@@ -1,0 +1,112 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>	
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="%2a%2a\**" />
+    <Compile Remove="wwwroot\lib\vue\flow\**" />
+    <Compile Remove="wwwroot\lib\vue\packages\**" />
+    <Compile Remove="wwwroot\lib\vue\src\**" />
+    <Compile Remove="wwwroot\lib\vue\test\**" />
+    <Compile Remove="wwwroot\lib\vue\types\**" />
+    <Content Remove="%2a%2a\**" />
+    <Content Remove="wwwroot\lib\vue\flow\**" />
+    <Content Remove="wwwroot\lib\vue\packages\**" />
+    <Content Remove="wwwroot\lib\vue\src\**" />
+    <Content Remove="wwwroot\lib\vue\test\**" />
+    <Content Remove="wwwroot\lib\vue\types\**" />
+    <EmbeddedResource Remove="%2a%2a\**" />
+    <EmbeddedResource Remove="wwwroot\lib\vue\flow\**" />
+    <EmbeddedResource Remove="wwwroot\lib\vue\packages\**" />
+    <EmbeddedResource Remove="wwwroot\lib\vue\src\**" />
+    <EmbeddedResource Remove="wwwroot\lib\vue\test\**" />
+    <EmbeddedResource Remove="wwwroot\lib\vue\types\**" />
+    <None Remove="%2a%2a\**" />
+    <None Remove="wwwroot\lib\vue\flow\**" />
+    <None Remove="wwwroot\lib\vue\packages\**" />
+    <None Remove="wwwroot\lib\vue\src\**" />
+    <None Remove="wwwroot\lib\vue\test\**" />
+    <None Remove="wwwroot\lib\vue\types\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="%2a%2a/%2a.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="%2a%2a\%2a.config" />
+    <Content Remove="%2a%2a\%2a.cshtml" />
+    <Content Remove="%2a%2a\%2a.json" />
+    <Content Remove="%2a%2a\%2a.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="%2a%2a/%2a.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="%2a%2a/%2a" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Controllers\BaseController.cs" />
+    <Compile Include="Controllers\DepartmentsController.cs" />
+    <Compile Include="Controllers\DepartmentWorksController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MyWorksController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
+    <Compile Include="Models\BackResult.cs" />
+    <Compile Include="Models\ErrorViewModel.cs" />
+    <Compile Include="Models\LowercaseContractResolver.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Startup.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="appsettings.Development.json" />
+    <Content Include="appsettings.json" />
+    <Content Include="bower.json" />
+    <Content Include="nlog.config" />
+    <Content Include="Views\Departments\Index.cshtml" />
+    <Content Include="Views\DepartmentWorks\Index.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\Login.cshtml" />
+    <Content Include="Views\Home\ModifyPassword.cshtml" />
+    <Content Include="Views\Home\Privacy.cshtml" />
+    <Content Include="Views\MyWorks\Index.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <Content Include="Views\User\Index.cshtml" />
+    <Content Include="Views\_ViewImports.cshtml" />
+    <Content Include="Views\_ViewStart.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="readme.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.90" />
+    <PackageReference Include="Dapper.Contrib" Version="2.0.78" />
+    <PackageReference Include="Dapper.SimpleCRUD" Version="2.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.14" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.4" />
+    <PackageReference Include="NLog" Version="4.7.9" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj" />
+    <ProjectReference Include="..\IRepository\IRepository.csproj" />
+    <ProjectReference Include="..\IService\IService.csproj" />
+    <ProjectReference Include="..\Model\Model.csproj" />
+    <ProjectReference Include="..\Repository\Repository.csproj" />
+    <ProjectReference Include="..\Service\Service.csproj" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
+
+</Project>

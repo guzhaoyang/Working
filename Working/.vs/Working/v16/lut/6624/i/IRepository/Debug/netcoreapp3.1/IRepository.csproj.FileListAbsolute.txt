@@ -1,0 +1,6 @@
+F:\参与的项目\Working\.vs\Working\v16\lut\0\b\IRepository\Debug\netcoreapp3.1\IRepository.deps.json
+F:\参与的项目\Working\.vs\Working\v16\lut\0\b\IRepository\Debug\netcoreapp3.1\IRepository.dll
+F:\参与的项目\Working\.vs\Working\v16\lut\0\i\IRepository\Debug\netcoreapp3.1\IRepository.AssemblyInfoInputs.cache
+F:\参与的项目\Working\.vs\Working\v16\lut\0\i\IRepository\Debug\netcoreapp3.1\IRepository.AssemblyInfo.cs
+F:\参与的项目\Working\.vs\Working\v16\lut\0\i\IRepository\Debug\netcoreapp3.1\IRepository.csproj.CopyComplete
+F:\参与的项目\Working\.vs\Working\v16\lut\0\i\IRepository\Debug\netcoreapp3.1\IRepository.dll

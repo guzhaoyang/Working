@@ -1,0 +1,16 @@
+F:\参与的项目\Repository\bin\Debug\netcoreapp2.0\Repository.deps.json
+F:\参与的项目\Repository\bin\Debug\netcoreapp2.0\Repository.dll
+F:\参与的项目\Repository\bin\Debug\netcoreapp2.0\Repository.pdb
+F:\参与的项目\Repository\bin\Debug\netcoreapp2.0\Common.dll
+F:\参与的项目\Repository\bin\Debug\netcoreapp2.0\IRepository.dll
+F:\参与的项目\Repository\bin\Debug\netcoreapp2.0\Model.dll
+F:\参与的项目\Repository\bin\Debug\netcoreapp2.0\Common.pdb
+F:\参与的项目\Repository\bin\Debug\netcoreapp2.0\IRepository.pdb
+F:\参与的项目\Repository\bin\Debug\netcoreapp2.0\Model.pdb
+F:\参与的项目\Repository\obj\Debug\netcoreapp2.0\Repository.csprojAssemblyReference.cache
+F:\参与的项目\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfoInputs.cache
+F:\参与的项目\Repository\obj\Debug\netcoreapp2.0\Repository.AssemblyInfo.cs
+F:\参与的项目\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CoreCompileInputs.cache
+F:\参与的项目\Repository\obj\Debug\netcoreapp2.0\Repository.csproj.CopyComplete
+F:\参与的项目\Repository\obj\Debug\netcoreapp2.0\Repository.dll
+F:\参与的项目\Repository\obj\Debug\netcoreapp2.0\Repository.pdb

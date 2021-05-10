@@ -1,0 +1,52 @@
+2021-05-02 16:54:02.0592|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-02 16:54:17.5865|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-02 16:54:17.7055|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-02 16:54:17.7275|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-02 16:54:18.1217|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-02 16:54:22.7068|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-02 16:55:15.9505|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-02 16:55:19.7193|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-02 16:56:18.2665|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-02 16:56:23.0469|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-02 17:45:43.3101|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-02 17:45:52.3247|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-02 17:45:52.3800|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-02 17:45:52.3999|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-02 17:45:53.2053|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-02 18:03:28.1208|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-02 18:36:00.7114|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-02 18:36:18.0555|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-02 18:36:18.1114|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-02 18:36:18.1503|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-02 18:36:18.5293|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-02 18:37:48.0578|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-02 18:37:55.0632|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-02 18:37:55.1158|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-02 18:37:55.1663|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-02 18:37:55.6504|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-02 23:26:21.7548|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-02 23:26:28.0291|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-02 23:26:28.1179|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-02 23:26:28.2024|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-02 23:27:03.0086|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-02 23:27:09.5896|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-02 23:27:09.6346|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-02 23:27:09.6899|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-02 23:27:39.0607|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-02 23:27:46.1909|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-02 23:27:46.2276|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-02 23:27:46.2657|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-02 23:27:50.5753|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-02 23:28:05.4712|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action |url: http://localhost/|action: Index|
+2021-05-02 23:28:42.9795|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-02 23:28:50.2546|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-02 23:28:50.2973|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-02 23:28:50.3297|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-02 23:36:37.0986|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-02 23:36:45.5672|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-02 23:36:45.6728|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-02 23:36:45.7124|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
+2021-05-02 23:58:11.7128|0|DEBUG|Working.Program|init main |url: |action: |
+2021-05-02 23:58:17.0977|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |
+2021-05-02 23:58:17.1392|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |
+2021-05-02 23:58:17.1812|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working |url: |action: |
