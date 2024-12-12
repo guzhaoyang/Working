@@ -69,7 +69,16 @@ namespace Working.Controllers
                 }
 
                 #endregion
-
+                int userId = UserID;
+                foreach (var item in workItem.attachment)
+                {
+                    if(item.ID == 0)
+                    {
+                        item.WorkItemsID = workItem.ID;
+                        item.CreateUserID = userId;
+                        item.CreateTime = DateTime.Now;
+                    }
+                }
                 var result = _workItemsService.AddWorkItem(workItem, UserID);
                 return ToJson(result ? BackResult.Success : BackResult.Fail, message: result ? "编辑成功" : "编辑失败");
             }

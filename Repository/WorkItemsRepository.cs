@@ -8,6 +8,9 @@ using System.Data;
 using System.Text;
 using Sikiro.Dapper.Extension.MySql;
 using System.Linq;
+using Dapper;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+using Dapper.Contrib.Extensions;
 
 namespace Repository
 {
@@ -30,11 +33,48 @@ namespace Repository
         /// <param name="userID">用户ID</param>
         /// <returns></returns>
         public List<WorkItems> GetWorkItemByYearMonth(DateTime beginDT, DateTime endDT, int userID)
-        {            
+        {
+            //单表查询
+            //using (IDbConnection db = new MySqlConnection(AppSettings.connectionStrings.DefaultConnection))
+            //{
+            //    db.Open();
+            //    return db.QuerySet<WorkItems>().Where(p => p.RecordDate >= beginDT && p.RecordDate <= endDT && p.CreateUserID == userID).ToList().ToList();
+            //}
+
+            //多表查询
             using (IDbConnection db = new MySqlConnection(AppSettings.connectionStrings.DefaultConnection))
             {
                 db.Open();
-                return db.QuerySet<WorkItems>().Where(p => p.RecordDate >= beginDT && p.RecordDate <= endDT && p.CreateUserID == userID).ToList().ToList();
+                
+                List<WorkItems> workItems = new List<WorkItems>();
+                //WorkItemsID之后的字段映射到attachment表中
+                //https://blog.csdn.net/qq_34550459/article/details/106538980
+                string sql = @"select w.*,a.WorkItemsID,a.ID,a.CreateTime,a.CreateUserID,a.Name,a.Url
+                               from workitems w
+                               left join attachment a on a.WorkItemsID = w.ID
+                               where w.RecordDate >= @beginDT and w.RecordDate <= @endDT and w.CreateUserID = @userID";
+                var infos = db.Query<WorkItems, Attachment, WorkItems>(sql, (c, f) =>
+                {
+                    var currentWorkItem = workItems.Find(x => x.ID == c.ID);
+                    if (currentWorkItem == null)
+                    {
+                        if(f != null) { c.attachment.Add(f); }                        
+                        workItems.Add(c);
+                        return c;
+                    }
+                    else
+                    {
+                        if(f != null)
+                        {
+                            currentWorkItem.attachment.Add(f);
+                        }
+                        return currentWorkItem;
+                    }
+                }
+                , param:new { beginDT = beginDT , endDT = endDT , userID = userID }
+                , splitOn: "WorkItemsID");
+
+                return workItems;
             }
         }
 
@@ -61,8 +101,21 @@ namespace Repository
         {
             using (IDbConnection db = new MySqlConnection(AppSettings.connectionStrings.DefaultConnection))
             {
-                db.Open();                
-                return db.QuerySet<WorkItems>().Where(p => p.CreateUserID == userID && p.RecordDate >= beginDay && p.RecordDate <= endDay).Get();
+                db.Open();
+                //return db.QuerySet<WorkItems>().Where(p => p.CreateUserID == userID && p.RecordDate >= beginDay && p.RecordDate <= endDay).Get();
+                //单表查询，再查列表
+                string sql = @"select w.*
+                               from workitems w
+                               where w.RecordDate >= @beginDT and w.RecordDate <= @endDT and w.CreateUserID = @userID";
+                WorkItems workItems = db.Query<WorkItems>(sql, param: new { beginDT = beginDay, endDT = endDay, userID = userID }).FirstOrDefault();
+                sql = @"select * from attachment where WorkItemsID = @WorkItemsID";
+                if (workItems != null)
+                {
+                    List<Attachment> attachments = db.Query<Attachment>(sql, new { WorkItemsID = workItems.ID }).ToList();
+                    workItems.attachment = attachments;
+                }
+
+                return workItems;
             }
         }
 
@@ -76,7 +129,26 @@ namespace Repository
             using (IDbConnection db = new MySqlConnection(AppSettings.connectionStrings.DefaultConnection))
             {
                 db.Open();
-                return db.CommandSet<WorkItems>().Insert(workItems) > 0;
+                //return db.CommandSet<WorkItems>().Insert(workItems) > 0;
+                IDbTransaction tran = db.BeginTransaction();
+                try
+                {
+                    db.Insert<WorkItems>(workItems);
+                    if (workItems != null && workItems.attachment != null && workItems.attachment.Count > 0)
+                    {
+                        foreach (var item in workItems.attachment)
+                        {
+                            item.WorkItemsID = workItems.ID;
+                        }
+                        db.Insert<List<Attachment>>(workItems.attachment);
+                    }
+                    tran.Commit();
+                }
+                catch(Exception ex)
+                {
+                    tran.Rollback();
+                }
+                return true;
             }
         }
 
@@ -90,7 +162,24 @@ namespace Repository
             using (IDbConnection db = new MySqlConnection(AppSettings.connectionStrings.DefaultConnection))
             {
                 db.Open();
-                return db.CommandSet<WorkItems>().Where(p => p.ID == workItems.ID).Update(workItems) > 0;
+                IDbTransaction tran = db.BeginTransaction();
+                try
+                {
+                    //return db.CommandSet<WorkItems>().Where(p => p.ID == workItems.ID).Update(workItems) > 0;
+                    db.Update<WorkItems>(workItems);
+                    string deleteSql = "delete from attachment where WorkItemsID = @WorkItemsID";
+                    db.Execute(deleteSql, new { WorkItemsID = workItems.ID });
+                    if (workItems != null && workItems.attachment != null && workItems.attachment.Count > 0)
+                    {
+                        db.Insert<List<Attachment>>(workItems.attachment);
+                    }
+                    tran.Commit();
+                }
+                catch(Exception ex)
+                {
+                    tran.Rollback();
+                }
+                return true;
             }
         }
     }

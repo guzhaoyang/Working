@@ -1,0 +1,12 @@
+{
+  //发行者
+  "issuer": "http://127.0.0.1:8085",
+  //订阅者
+  "audience": "http://127.0.0.1:8085",
+  //密钥
+  "securityKey": "790asDerl#521*a@tJK&1#adee2ade2e",
+  //有效期(分钟) 120 = 2小时
+  "expires": 120,
+  //刷新有效期(分钟) 1440 = 1天
+  "refreshExpires": 1440
+}

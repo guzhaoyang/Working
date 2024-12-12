@@ -299,3 +299,8 @@
 2021-05-10 11:33:49.7564|0|INFO|Working.Controllers.HomeController|获取全部部门 
 2021-05-10 11:33:50.7791|0|INFO|Working.Controllers.HomeController|获取全部部门 
 2021-05-10 11:33:50.8651|0|INFO|Working.Controllers.HomeController|获取全部部门 
+2021-05-10 12:35:31.2652|0|DEBUG|Working.Program|init main 
+2021-05-10 12:35:43.2967|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2021-05-10 12:35:43.4036|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2021-05-10 12:35:43.4412|0|INFO|Microsoft.Hosting.Lifetime|Content root path: F:\参与的项目\Working\Working 
+2021-05-10 12:35:44.2433|0|INFO|Working.Controllers.HomeController|这是HomeControl的Index Action 

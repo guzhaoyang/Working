@@ -1,32 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "F:\\参与的项目\\Working\\Service\\Service.csproj": {}
+    "E:\\Code\\NetCore\\Working-.net core mvc项目\\Service\\Service.csproj": {}
   },
   "projects": {
-    "F:\\参与的项目\\Working\\Common\\Common.csproj": {
+    "E:\\Code\\NetCore\\Working-.net core mvc项目\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\参与的项目\\Working\\Common\\Common.csproj",
+        "projectUniqueName": "E:\\Code\\NetCore\\Working-.net core mvc项目\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "F:\\参与的项目\\Working\\Common\\Common.csproj",
+        "projectPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\参与的项目\\Working\\Common\\obj\\",
+        "outputPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -34,11 +39,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -55,6 +65,10 @@
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -63,7 +77,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -72,36 +87,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\参与的项目\\Working\\IRepository\\IRepository.csproj": {
+    "E:\\Code\\NetCore\\Working-.net core mvc项目\\IRepository\\IRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\参与的项目\\Working\\IRepository\\IRepository.csproj",
+        "projectUniqueName": "E:\\Code\\NetCore\\Working-.net core mvc项目\\IRepository\\IRepository.csproj",
         "projectName": "IRepository",
-        "projectPath": "F:\\参与的项目\\Working\\IRepository\\IRepository.csproj",
+        "projectPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\IRepository\\IRepository.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\参与的项目\\Working\\IRepository\\obj\\",
+        "outputPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\IRepository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\参与的项目\\Working\\Model\\Model.csproj": {
-                "projectPath": "F:\\参与的项目\\Working\\Model\\Model.csproj"
+              "E:\\Code\\NetCore\\Working-.net core mvc项目\\Model\\Model.csproj": {
+                "projectPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\Model\\Model.csproj"
               }
             }
           }
@@ -110,18 +130,24 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -130,36 +156,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\参与的项目\\Working\\IService\\IService.csproj": {
+    "E:\\Code\\NetCore\\Working-.net core mvc项目\\IService\\IService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\参与的项目\\Working\\IService\\IService.csproj",
+        "projectUniqueName": "E:\\Code\\NetCore\\Working-.net core mvc项目\\IService\\IService.csproj",
         "projectName": "IService",
-        "projectPath": "F:\\参与的项目\\Working\\IService\\IService.csproj",
+        "projectPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\IService\\IService.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\参与的项目\\Working\\IService\\obj\\",
+        "outputPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\IService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\参与的项目\\Working\\Model\\Model.csproj": {
-                "projectPath": "F:\\参与的项目\\Working\\Model\\Model.csproj"
+              "E:\\Code\\NetCore\\Working-.net core mvc项目\\Model\\Model.csproj": {
+                "projectPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\Model\\Model.csproj"
               }
             }
           }
@@ -168,18 +199,24 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -188,33 +225,38 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\参与的项目\\Working\\Model\\Model.csproj": {
+    "E:\\Code\\NetCore\\Working-.net core mvc项目\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\参与的项目\\Working\\Model\\Model.csproj",
+        "projectUniqueName": "E:\\Code\\NetCore\\Working-.net core mvc项目\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "F:\\参与的项目\\Working\\Model\\Model.csproj",
+        "projectPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\参与的项目\\Working\\Model\\obj\\",
+        "outputPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -222,11 +264,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Dapper.Contrib": {
               "target": "Package",
@@ -239,7 +286,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -248,45 +296,50 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\参与的项目\\Working\\Service\\Service.csproj": {
+    "E:\\Code\\NetCore\\Working-.net core mvc项目\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\参与的项目\\Working\\Service\\Service.csproj",
+        "projectUniqueName": "E:\\Code\\NetCore\\Working-.net core mvc项目\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "F:\\参与的项目\\Working\\Service\\Service.csproj",
+        "projectPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "F:\\参与的项目\\Working\\Service\\obj\\",
+        "outputPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\参与的项目\\Working\\Common\\Common.csproj": {
-                "projectPath": "F:\\参与的项目\\Working\\Common\\Common.csproj"
+              "E:\\Code\\NetCore\\Working-.net core mvc项目\\Common\\Common.csproj": {
+                "projectPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\Common\\Common.csproj"
               },
-              "F:\\参与的项目\\Working\\IRepository\\IRepository.csproj": {
-                "projectPath": "F:\\参与的项目\\Working\\IRepository\\IRepository.csproj"
+              "E:\\Code\\NetCore\\Working-.net core mvc项目\\IRepository\\IRepository.csproj": {
+                "projectPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\IRepository\\IRepository.csproj"
               },
-              "F:\\参与的项目\\Working\\IService\\IService.csproj": {
-                "projectPath": "F:\\参与的项目\\Working\\IService\\IService.csproj"
+              "E:\\Code\\NetCore\\Working-.net core mvc项目\\IService\\IService.csproj": {
+                "projectPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\IService\\IService.csproj"
               },
-              "F:\\参与的项目\\Working\\Model\\Model.csproj": {
-                "projectPath": "F:\\参与的项目\\Working\\Model\\Model.csproj"
+              "E:\\Code\\NetCore\\Working-.net core mvc项目\\Model\\Model.csproj": {
+                "projectPath": "E:\\Code\\NetCore\\Working-.net core mvc项目\\Model\\Model.csproj"
               }
             }
           }
@@ -295,11 +348,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Dapper": {
               "target": "Package",
@@ -320,7 +378,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -329,7 +388,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

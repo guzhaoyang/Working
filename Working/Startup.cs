@@ -1,3 +1,5 @@
+using Common.Configs;
+using Common.Helpers;
 using IRepository;
 using IService;
 using Microsoft.AspNetCore.Authentication.Cookies;
@@ -14,14 +16,24 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Working.Extensions;
 
 namespace Working
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        private static string basePath => AppContext.BaseDirectory;
+        private readonly IConfiguration _configuration;
+        private readonly IHostEnvironment _env;
+        private readonly ConfigHelper _configHelper;
+        private readonly AppConfig _appConfig;
+
+        public Startup(IConfiguration configuration, IWebHostEnvironment env)
         {
-            Configuration = configuration;
+            _configuration = configuration;
+            _env = env;
+            _configHelper = new ConfigHelper();
+            _appConfig = _configHelper.Get<AppConfig>("appconfig", env.EnvironmentName) ?? new AppConfig();
         }
 
         public IConfiguration Configuration { get; }
@@ -60,6 +72,17 @@ namespace Working
             services.AddControllersWithViews()  //也可以是 AddMvc() 等其他扩展方法    
                     .AddNewtonsoftJson();       // 支持 NewtonsoftJson
 
+            //应用配置
+            services.AddSingleton(_appConfig);
+
+            //上传配置
+            var uploadConfig = _configHelper.Load("uploadconfig", _env.EnvironmentName, true);
+            services.Configure<UploadConfig>(uploadConfig);
+
+            //参数配置
+            var paramConfig = _configHelper.Load("paramconfig", _env.EnvironmentName, true);
+            services.Configure<ParamConfig>(paramConfig);
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -74,6 +97,8 @@ namespace Working
                 app.UseExceptionHandler("/Home/Error");
             }
             app.UseStaticFiles();
+            //静态文件
+            app.UseUploadConfig();
 
             app.UseRouting();
 

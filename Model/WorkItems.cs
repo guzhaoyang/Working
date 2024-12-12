@@ -1,6 +1,9 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using Dapper.Contrib.Extensions;
+using System;
+using System.Collections.Generic;
+//using System.ComponentModel.DataAnnotations;
+//using System.ComponentModel.DataAnnotations.Schema;
+using System.Net.Mail;
 
 namespace Model
 {
@@ -10,6 +13,11 @@ namespace Model
     [Table("WorkItems")]
     public class WorkItems
     {
+        public WorkItems() 
+        {
+            attachment = new List<Attachment>();
+        }
+
         /// <summary>
         /// 工作记录ID
         /// </summary>
@@ -35,6 +43,11 @@ namespace Model
         /// 工作记录具体内容
         /// </summary>
         public string WorkContent { get; set; }
+        /// <summary>
+        /// 工作记录附件
+        /// </summary>
+        [Write(false)]
+        public List<Attachment> attachment { get; set; }
 
     }
 }

@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>	
+    <TargetFramework>net8.0</TargetFramework>	
   </PropertyGroup>
 
   <PropertyGroup>
@@ -60,7 +60,9 @@
     <Compile Include="Controllers\DepartmentWorksController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\MyWorksController.cs" />
+    <Compile Include="Controllers\UploadController.cs" />
     <Compile Include="Controllers\UserController.cs" />
+    <Compile Include="Extensions\UploadConfigApplicationBuilderExtensions.cs" />
     <Compile Include="Models\BackResult.cs" />
     <Compile Include="Models\ErrorViewModel.cs" />
     <Compile Include="Models\LowercaseContractResolver.cs" />

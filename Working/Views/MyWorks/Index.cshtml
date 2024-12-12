@@ -49,10 +49,32 @@
                     &times;
                 </button>
                 <h4 class="modal-title" id="myMod">
-                    编号工作记录
+                    编辑工作记录
                 </h4>
             </div>
             <div class="modal-body">
+                <div class="row">
+                    @* <form method="post" enctype="multipart/form-data" action="/Upload/UploadImage">
+                        <div>
+                            <p>Upload one or more files using this form:</p>
+                            <input type="file" name="files" />
+                        </div>
+                        <div>
+                            <input type="submit" value="Upload" />
+                        </div>
+                    </form> *@
+                    <div class="col-md-12">
+                        @* <textarea rows="6" class="form-control" v-model="workitem.workcontent" placeholder="工作记录内容"></textarea> *@
+                        <ul>
+                            <li v-for="(item,index) in workitem.attachment" :key="index">
+                                <a :href="item.url">{{ item.name }}</a>
+                                <button v-on:click="delImage(index)">删除</button>
+                            </li>
+                        </ul>
+                    </div>
+                    <input type="file" id="fileInput" />
+                    <button onclick="uploadFile()">上传附件</button>
+                </div>
                 <div class="row">
                     <div class="col-md-12">
                         <textarea rows="6" class="form-control" v-model="workitem.workcontent" placeholder="工作记录内容"></textarea>
@@ -224,6 +246,14 @@
                     methods: {
                         savaWorkItem: function () {
                             EditSavaWorkItem(this.workitem);
+                        },
+                        //删除图片
+                        delImage: function(index) {
+                            console.log(index)
+                            console.log(this.workitem)
+                            console.log(this.workitem.attachment)
+                            this.workitem.attachment.splice(index, 1)
+                            console.log(this.workitem.attachment)
                         }
                     }
                 })
@@ -266,5 +296,51 @@
             }
             var currentdate = date.getFullYear() + "年" + month + "月" + strDate + "日"
             $("#" + currentdate).attr("style", "background-color:lightgreen");
-        }</script>
+        }
+        
+        //上传文件
+        function uploadFile(){
+            //多文件上传
+            const input = document.getElementById('fileInput');
+            const file = input.files[0];
+            const formData = new FormData();
+            formData.append('file', file);
+
+            fetch('/Upload/UploadOneImage', {
+                method: 'POST',
+                body: formData
+            })
+                .then(response => response.json())
+                .then(data => { 
+                    console.log(data)
+                    console.log(editVue.workitem)
+                    var attachment = new Object()
+                    attachment.id = 0
+                    attachment.name = data.name
+                    attachment.url = data.fileRelativePath
+                    editVue.workitem.attachment.push(attachment)
+                })
+                .catch(error => console.error(error));
+
+            //多文件上传
+            // var fileInput = document.getElementById('fileInput');
+            // var file = fileInput.files[0];
+
+            // var formData = new FormData();
+            // formData.append('files', file);
+
+            // var xhr = new XMLHttpRequest();
+            // xhr.open('POST', '/Upload/UploadImage', true);
+
+            // xhr.onload = function () {
+            //     if (xhr.status === 200) {
+            //         console.log('文件上传成功');
+            //     } else {
+            //         console.log('文件上传失败');
+            //     }
+            // };
+
+            // xhr.send(formData);
+        }        
+    </script>
 }
